@@ -1,0 +1,20 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+body{
+    background-image: url("../images/bg-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* Is this is the best way to approch the vertical center */
+    padding: 250px 0 0 0;
+}
+.main{
+    color: rgb(9, 255, 0);
+    text-align: center;
+    border: white solid;
+    /* Why we have to use marign zero and auto to apply for the width? */
+    margin: 0 auto;
+    width: 50%;
+}
+/* I need to create new repository every new task */
