@@ -17,17 +17,19 @@ body{
     /* Why we have to use marign zero and auto to apply for the width? */
     margin: 0 auto;
     width: 50%;
+    background-color: #00ffff3d;
 }
 /* I need to create new repository every new task */
 
 .div2{
-    margin: 400px 0 200px 0;
+    margin: 400px 0 210px 0;
     margin-top: 400px;
 }
 .main2{
-    color: #000;
+    color: #fff;
     text-align: center;
     border:navy solid;
     margin: 0 auto;
     width: 50%;
+    background-color: #000000a1;
 }
