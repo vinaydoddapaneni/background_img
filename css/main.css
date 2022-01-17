@@ -5,6 +5,7 @@
 body{
     background-image: url("../images/bg-img.jpg");
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
     /* Is this is the best way to approch the vertical center */
     padding: 250px 0 0 0;
@@ -18,3 +19,15 @@ body{
     width: 50%;
 }
 /* I need to create new repository every new task */
+
+.div2{
+    margin: 400px 0 200px 0;
+    margin-top: 400px;
+}
+.main2{
+    color: #000;
+    text-align: center;
+    border:navy solid;
+    margin: 0 auto;
+    width: 50%;
+}
